@@ -1,0 +1,11 @@
+# Visual studio code
+.vscode/**
+
+# Visual studio
+.vs/**
+
+# Build binaries
+build/**
+
+# Resources
+resources/**
